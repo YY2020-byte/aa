@@ -10,7 +10,7 @@ namespace aa.Controllers
     {
         public IActionResult Index()
         {
-            return View(111);
+            return View(1);
         }
     }
 }
